@@ -1,0 +1,17 @@
+ .btn {
+	background-color: #B693E3; 
+	border-color: #ffff;
+}
+.btn:hover{
+
+	background-color: #904AE9;
+	border-color: #6805E7;
+
+}
+body{
+	background-image: url("../img/bg1.png");
+		background-size: cover;
+}
+h1{
+	color:#B693E3;
+}

@@ -1,0 +1,56 @@
+.d-flex{
+	background-color: #B693E3;
+	color: #ffff;
+}
+.p-2 {
+	color: #ffff;
+}
+.btn-outline-primary{
+	color: #ffff;
+	border-color:#ffff;
+}
+.btn-outline-primary:hover{
+	background-color: #904AE9;
+	border-color: #6805E7;
+}
+.logo-centrado{
+	text-align: center;
+}
+.logo{
+	width: 198px;
+	height: 182px;
+	
+}
+main{
+	background-image: url("../img/bg1.png");/*para poner una imagen de fondo*/
+	background-size: cover;
+	background-position: 0;
+}
+input{
+	/*-webkit-box-shadow: 11px 10px 5px 0px rgba(147,98,179,0.8);
+	-moz-box-shadow: 11px 10px 5px 0px rgba(147,98,179,0.8);*/
+	box-shadow: 11px 10px 5px 0px rgba(147,98,179,0.8);
+	background-color: #904AE9;
+	color: #ffff;
+	border-color: #904AE9;
+	border-radius:5px; 
+}
+.lead{
+	color: #904AE9 ;
+	font-weight: bold;
+}
+#autocomplete{
+	background-color: #ffff;
+	color: #222;
+}
+.display-4{
+	color: #904AE9;
+}
+
+.divForm{
+	margin-left: 20px;
+}
+
+h4{
+	color:#904AE9 ;
+}

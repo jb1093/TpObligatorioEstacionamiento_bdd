@@ -1,0 +1,10 @@
+
+edn254=>2021-06-25 19:47=>CON GNC=>auto=>manuelita@gmail=>x
+lkm365=>2021-06-25 19:50=>CON GNC=>auto=>manuelita@gmail=>x
+abc123=>2021-06-25 19:59=>SIN GNC=>moto=>manuelita@gmail=>x
+ttt555=>2021-06-25 20:00=>CON GNC=>camioneta=>manuelita@gmail=>x
+kmi789=>2021-06-25 20:23=>SIN GNC=>camioneta=>julieta@gmail=>x
+rrr111=>2021-06-25 20:30=>SIN GNC=>moto=>julieta@gmail=>x
+klx235=>2021-06-25 21:16=>CON GNC=>auto=>andrea@gmail=>x
+rrr888=>2021-06-25 21:43=>CON GNC=>auto=>andrea@gmail=>x
+hol963=>2021-07-02 17:54=>CON GNC=>auto=>julieta@gmail=>x

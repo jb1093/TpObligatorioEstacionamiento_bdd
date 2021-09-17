@@ -1,0 +1,44 @@
+.navbar {
+	background-color: #B693E3;
+}
+
+.btn-outline-success{
+	color: #ffff;
+	border-color:#ffff;
+}
+/*para cambiar el color del botón cuando paso el cursor*/
+.btn-outline-success:hover{
+
+	background-color: #904AE9;
+	border-color: #6805E7;
+
+}
+.jumbotron{
+	background-image: url("../img/4.png");/*para poner una imagen de fondo*/
+	background-size: cover;/*para que la imagen sea renderizada*/
+}
+.display-3 {
+	color: #ffff;
+}
+.dato1{
+	color: #ffff;
+	font-weight: bold;
+}
+.btn {
+	background-color: #B693E3; 
+	border-color: #ffff;
+}
+.btn:hover{
+
+	background-color: #904AE9;
+	border-color: #6805E7;
+
+}
+h3{
+	color:#B693E3;
+}
+.logo{
+	width: 198px;
+	height: 182px;
+	float: right;
+}
